@@ -1,0 +1,68 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.cardapio {
+  font-family: 'Impact', sans-serif;
+  color: #8B4513;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.container2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.item {
+  margin: 10px 0;
+}
+
+.txt {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.btn {
+  background-color: #DAA520;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.btn:hover {
+  background-color: orange;
+}
+
+.total {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.btnZ {
+  background-color: #DAA520;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.btnZ:hover {
+  background-color: orange;
+}
+.body {
+  background-color: #f5f5f5; 
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
